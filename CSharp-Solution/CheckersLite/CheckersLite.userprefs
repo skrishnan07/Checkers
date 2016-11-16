@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{C67EE4AC-DACC-490F-AACA-05BD7DDBD184}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CheckersLite/Board.cs">
+    <Files>
+      <File FileName="CheckersLite/Program.cs" Line="1" Column="1" />
+      <File FileName="CheckersLite/GameRunner.cs" Line="14" Column="1" />
+      <File FileName="CheckersLite/Game.cs" Line="1" Column="1" />
+      <File FileName="CheckersLite/Board.cs" Line="17" Column="10" />
+      <File FileName="CheckersLite/Player.cs" Line="58" Column="3" />
+      <File FileName="CheckersLite/Piece.cs" Line="116" Column="8" />
+      <File FileName="CheckersLite/Move.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CheckersLite PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
